@@ -1,5 +1,12 @@
 # CoinPriceBar
 
+## Disclaimer
+
+This version is only a fork of [the original project](https://github.com/T-Pham/CoinPriceBar). 
+This fork only change the fiat currency to EURO €.
+
+## Toolbar
+
 ![Screenshot](https://github.com/T-Pham/CoinPriceBar/blob/master/Screenshots/screenshot.png?raw=true)
 
 Cyptocurrency prices on MacBook Touch Bar.
@@ -14,11 +21,11 @@ Supported cryptocurrencies:
 - <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/miota.png?raw=true" width="16px"/> [IOTA](https://support.binance.com/hc/en-us/articles/115001835032)
 - <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/ada.png?raw=true" width="16px"/> [Cardano](https://support.binance.com/hc/en-us/articles/115003098651)
 
-Prices are in USD and updated every 15 seconds.
+Prices are in EUR and updated every 15 seconds.
 
 Ripple, IOTA and Cardano prices are calculated by XRP/ETH price from Binance multiplied with ETH price from Coinbase.
 
-Other prices are spot price in USD from Coinbase.
+Other prices are spot price in EUR from Coinbase.
 
 The app runs in background and can be accessed anywhere by tapping the `₿` icon on the Touch Bar Control Strip.
 
@@ -26,18 +33,13 @@ The app runs in background and can be accessed anywhere by tapping the `₿` ico
 
 ## Download
 
-- [Mac](https://github.com/T-Pham/CoinPriceBar/releases/download/1.4/CoinPriceBar.app.zip)
-- [Windows](http://thecatapi.com/api/images/get?format=src&type=gif)
-
-![Download](https://img.shields.io/github/downloads/T-Pham/CoinPriceBar/total.svg?style=flat-square&label=&colorA=000000&colorB=000000)
+- [Mac](https://github.com/Th3Mouk/CoinPriceBar/releases/download/1.4/CoinPriceBar.app.zip)
 
 ## "Please support this coin / this currency"
 
-If you want to add some coin / use some currency other than USD but don't know how to code and build the app yourself, please [open an issue](https://github.com/T-Pham/CoinPriceBar/issues/new).
+Please refer to [the original project](https://github.com/T-Pham/CoinPriceBar).
 
-I will help create a customized app based on your request. I will also make it available for everyone else to download from the [release page](https://github.com/T-Pham/CoinPriceBar/releases).
-
-## Wanna give me some coins?
+## Wanna give to T-Pham (the real author) some coins?
 
 - Fiat money: [PayPal.Me/pmthanh](https://www.paypal.me/pmthanh)
 - Bitcoin: `1Q1mq13E1phMMYz3wREKRRfYfHU9Gc2v6S`
