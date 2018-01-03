@@ -33,7 +33,7 @@ The app runs in background and can be accessed anywhere by tapping the `₿` ico
 
 ## Download
 
-- [Mac](https://github.com/Th3Mouk/CoinPriceBar/releases/download/1.4/CoinPriceBar.app.zip)
+- [Mac](https://github.com/Th3Mouk/CoinPriceBar/releases/download/1.4.0.1/CoinPriceBar.zip)
 
 ## "Please support this coin / this currency"
 
